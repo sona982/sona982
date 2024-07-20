@@ -1,11 +1,8 @@
 # Hello, I'm SONA 👋
-
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+a+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
 </div>
-
 ---
 
 ### About Me
@@ -43,7 +40,7 @@
 <div align="center">
   <a href="https://dev.to/YourProfile"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
   <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://facebook.com/YourFacebookProfile"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="[https://facebook.com/YourFacebookProfile](https://www.facebook.com/tuanhpogn/)"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/YourInstagramProfile"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://youtube.com/YourYouTubeChannel"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://linkedin.com/in/YourLinkedInProfile"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
