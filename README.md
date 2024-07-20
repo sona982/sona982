@@ -2,10 +2,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+a+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
 </div>
 
+<div align="right">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Blogging GIF" width="500">
+</div>
 ---
 
 ## 🚀 About Me
