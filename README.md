@@ -1,6 +1,12 @@
 # Hello, I'm Your Name 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat) 
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=Tôi+là+Phong;Tôi+là+Developer;Tôi+thích+Coding+và+Learning" alt="Typing SVG">
+</div>
 
 ---
 
