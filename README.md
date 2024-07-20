@@ -1,11 +1,14 @@
 # Hello, I'm SONA 👋
+
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
-<div align="left">
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+a+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
 </div>
+
 ---
 
-### About Me
+## 🚀 About Me
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **bla, bla**
@@ -14,7 +17,7 @@
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -27,7 +30,7 @@
 
 ---
 
-### GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
@@ -35,7 +38,7 @@
 
 ---
 
-### Connect with me
+## 🌐 Connect with me
 
 <div align="center">
   <a href="https://dev.to/YourProfile"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
@@ -49,7 +52,7 @@
 
 ---
 
-### Languages and Tools
+## 💻 Languages and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
@@ -74,7 +77,7 @@
 
 ---
 
-### Blog Posts
+## 📕 Latest Blog Posts
 
 <div align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Blogging GIF" width="500">
@@ -82,3 +85,45 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎮 Fun Projects
+
+- [Project 1](https://github.com/YourGitHubUsername/Project1) - A brief description of project 1.
+- [Project 2](https://github.com/YourGitHubUsername/Project2) - A brief description of project 2.
+- [Project 3](https://github.com/YourGitHubUsername/Project3) - A brief description of project 3.
+
+---
+
+## 🔥 Streaks
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+## ✨ Highlights
+
+- **Open Source Contributions**: I actively contribute to open source projects.
+- **Mentoring**: I enjoy mentoring new developers.
+- **Hackathons**: I participate in various hackathons and coding competitions.
+
+---
+
+## 📣 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</div>
+
+---
+
+## 🐱 My GitHub Pets
+
+<div align="center">
+  <img src="https://github.com/YourGitHubUsername.png" width="100" alt="GitHub Pet">
+  <img src="https://github.com/YourGitHubUsername.png" width="100" alt="GitHub Pet">
+  <img src="https://github.com/YourGitHubUsername.png" width="100" alt="GitHub Pet">
+</div>
