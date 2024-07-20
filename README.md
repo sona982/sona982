@@ -2,18 +2,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+a+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
-  dhsfhfds
-  dsf
-  dsf
-  sdf
-  sdf
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+a+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Blogging GIF" width="300">
+  </div>
 </div>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Blogging GIF" width="500">
-</div>
 ---
 
 ## 🚀 About Me
@@ -86,10 +83,6 @@
 ---
 
 ## 📕 Latest Blog Posts
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Blogging GIF" width="500">
-</div>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
