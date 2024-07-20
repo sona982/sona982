@@ -2,19 +2,17 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat)
 
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+a+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
 </div>
 
 ---
 
 ### About Me
 
-- 🌱 I’m currently learning **React**
-- 💬 Ask me about **iOS, Python, Javascript**
-- 📫 How to reach me **YourEmail@example.com**
+- 🌱 I’m currently learning **everything**
+- 💬 Ask me about **bla, bla**
+- 📫 How to reach me **nguyentuanphong982@gmail.com**
 - ⚡ Fun fact **I think I am Funny**
 
 ---
@@ -71,11 +69,5 @@
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
-
----
-
-### Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/swift
