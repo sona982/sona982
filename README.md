@@ -4,6 +4,11 @@
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=380&height=45&lines=I+am+Phong;I+am+a+Developer;I+like+Coding+and+Learning" alt="Typing SVG">
+  dhsfhfds
+  dsf
+  dsf
+  sdf
+  sdf
 </div>
 
 <div align="right">
